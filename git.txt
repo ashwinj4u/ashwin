@@ -1,0 +1,1000 @@
+  874  ./a.out localhost 5000
+  875  gcc client.c
+  876  ./a.out localhost 5005
+  877  gcc client.c
+  878  ./a.out localhost 55506
+  879  gcc client.c
+  880  ./a.out localhost 55507
+  881  gcc client.c
+  882  ./a.out localhost 55508
+  883  gcc client.c
+  884  ./a.out localhost 55509
+  885  gcc client.c
+  886  ./a.out localhost 5506
+  887  cd Desktop/
+  888  gcc thread.c
+  889  gcc thread.c -lpthread
+  890  ./a.out
+  891  gcc thread.c -lpthread
+  892  ./a.out 5000
+  893  gcc thread.c -lpthread
+  894  ./a.out 5000
+  895  gcc thread.c -lpthread
+  896  ./a.out 5000
+  897  gcc thread.c -lpthread
+  898  ./a.out 5000
+  899  gcc thread.c -lpthread
+  900  ./a.out 5000
+  901  gcc thread.c -lpthread
+  902  ./a.out 5000
+  903  gcc thread.c -lpthread
+  904  ./a.out 5005
+  905  gcc thread.c -lpthread
+  906  ./a.out 5005
+  907  gcc thread.c -lpthread
+  908  ./a.out 5005
+  909  gcc thread.c -lpthread
+  910  ./a.out 5055
+  911  gcc thread.c -lpthread
+  912  ./a.out 5055
+  913  gcc thread.c -lpthread
+  914  ./a.out 5555
+  915  gcc thread.c -lpthread
+  916  ./a.out 5555
+  917  ./a.out 55550
+  918  gcc thread.c -lpthread
+  919  ./a.out 55555
+  920  gcc thread.c -lpthread
+  921  ./a.out 555
+  922  ./a.out 55505
+  923  gcc thread.c -lpthread
+  924  ./a.out 5055
+  925  ./a.out 55506
+  926  gcc thread.c -lpthread
+  927  ./a.out 55507
+  928  gcc thread.c -lpthread
+  929  ./a.out 55508
+  930  gcc thread.c -lpthread
+  931  ./a.out 55509
+  932  gcc thread.c -lpthread
+  933  ./a.out 5506
+  934  cd Desktop/
+  935  gcc client.c
+  936  ./a.out localhost 5506
+  937  gcc thread.c -lpthread
+  938  cd Desktop/
+  939  gcc thread.c -lpthread
+  940  ./a.out 5506
+  941  ssh anjaly_bcs11@athena.nitc.ac.in
+  942  ssh mithunmohan_bcs11@athena.nitc.ac.in
+  943  telnet 192.168.40.130
+  944  vi exam2.c
+  945  cd Desktop/
+  946  gcc spiral.c
+  947  ./a.out
+  948  gcc spiral.c
+  949  ./a.out
+  950  gcc spiral.c
+  951  ./a.out
+  952  gcc spiral.c
+  953  ./a.out
+  954  gcc -g spiral.c
+  955  gdb a.out
+  956  gcc -g spiral.c
+  957  gdb a.out
+  958  gcc -g spiral.c
+  959  ./a.out
+  960  python
+  961  telnet 192.168.40.130
+  962  cd Desktop/
+  963  gcc sudoku.c
+  964  ./a.out
+  965  gcc sudoku.c
+  966  ./a.out
+  967  gcc sudoku.c
+  968  ./a.out
+  969  gcc sudoku.c
+  970  ./a.out
+  971  gcc sudoku.c
+  972  ./a.out
+  973  gcc sudoku.c
+  974  ./a.out
+  975  gcc sudoku.c
+  976  ./a.out
+  977  javac HelloWorld.java
+  978  javac HelloWorld
+  979  javac Hello1.java
+  980  java Hello1
+  981  javac Hello1
+  982  javac Hello1.java
+  983  java Hello1
+  984  javac test.java
+  985  javac test
+  986  javac test.java
+  987  java test
+  988  javac test.java
+  989  javac hello1.java
+  990  javac Hello1.java
+  991  java Hello1
+  992  javac array.java
+  993  java array
+  994  javac array.java
+  995  java array
+  996  javac array.java
+  997  java array
+  998  javac array.java
+  999  java array
+ 1000  javac array
+ 1001  javac array.java
+ 1002  java array
+ 1003  javac array.java
+ 1004  java array
+ 1005  javac array.java
+ 1006  java array
+ 1007  javac array.java
+ 1008  java array
+ 1009  javac copy.java
+ 1010  java copy
+ 1011  javac copy.java
+ 1012  java copy
+ 1013  javac copy.java
+ 1014  java copy
+ 1015  javac copy.java
+ 1016  java copy
+ 1017  javac copy.java
+ 1018  java copy
+ 1019  javac over.java
+ 1020  javac MethodOverloadingDemo.java
+ 1021  javac Subjects.java
+ 1022  javac ov.java
+ 1023  java ov
+ 1024  javac ov.java
+ 1025  java ov
+ 1026  javac Test.java
+ 1027  java Test
+ 1028  javac Test.java
+ 1029  java Test
+ 1030  javac Dog extends Mammal.java
+ 1031  javac q.java
+ 1032  java q
+ 1033  javac q.java
+ 1034  java q
+ 1035  javac io.java
+ 1036  ReadStandardIO.java
+ 1037  javac ReadStandardIO .java
+ 1038  javac ReadStandardIO.java
+ 1039  javac ReadStandardIO .java
+ 1040  javac ReadStandardIO.java
+ 1041  java ReadStandardIO
+ 1042  javac FileWrite.java
+ 1043  java FileWrite
+ 1044  cd Desktop
+ 1045  bison -dv vyac.y
+ 1046  flex vlex.l
+ 1047  cd Desktop
+ 1048  bison -dv vyac.y
+ 1049  flex vlex.l
+ 1050  gcc vyac.tab.c -ll -ly
+ 1051  ./a.out < myfile
+ 1052  bison -dv vyac.y
+ 1053  flex vlex.l
+ 1054  gcc vyac.tab.c -ll -ly
+ 1055  bison -dv vyac.y
+ 1056  flex vlex.l
+ 1057  gcc vyac.tab.c -ll -ly
+ 1058  bison -dv vyac.y
+ 1059  flex vlex.l
+ 1060  gcc vyac.tab.c -ll -ly
+ 1061  ./a.out < myfile
+ 1062  bison -dv vyac.y
+ 1063  flex vlex.l
+ 1064  gcc vyac.tab.c -ll -ly
+ 1065  ./a.out < myfile
+ 1066  bison -dv vfull.y
+ 1067  cd Desktop
+ 1068  bison -dv vfull.y
+ 1069  flex vlex.l
+ 1070  gcc vfull.tab.c -ll -ly
+ 1071  bison -dv vfull.y
+ 1072  flex vlex.l
+ 1073  gcc vfull.tab.c -ll -ly
+ 1074  cd Desktop
+ 1075  bison -dv vfull.y
+ 1076  flex vlex.l
+ 1077  gcc vfull.tab.c -ll -ly
+ 1078  bison -dv vfull.y
+ 1079  flex vlex.l
+ 1080  gcc vfull.tab.c -ll -ly
+ 1081  ./a.out < myfile
+ 1082  bison -dv vfull.y
+ 1083  flex vlex.l
+ 1084  gcc vfull.tab.c -ll -ly
+ 1085  ./a.out < myfile
+ 1086  bison -dv vfull.y
+ 1087  flex vlex.l
+ 1088  gcc vfull.tab.c -ll -ly
+ 1089  ./a.out < myfile
+ 1090  ssh christine_bcs11@athena.nitc.ac.in
+ 1091  cd Desktop/chris
+ 1092  g++ insort.cpp
+ 1093  ./a.out
+ 1094  g++ insertion_sort.cpp
+ 1095  ./a.out
+ 1096  g++ insort.cpp
+ 1097  ./a.out
+ 1098  g++ insort.cpp
+ 1099  ./a.out
+ 1100  g++ insort.cpp
+ 1101  ./a.out
+ 1102  g++ insort.cpp
+ 1103  ./a.out
+ 1104  g++ insort.cpp
+ 1105  ./a.out
+ 1106  g++ test.cpp
+ 1107  ./a.out
+ 1108  g++ test.cpp
+ 1109  ./a.out
+ 1110  g++ test.cpp
+ 1111  ./a.out
+ 1112  g++ test.cpp
+ 1113  ./a.out
+ 1114  g++ test.cpp
+ 1115  ./a.out
+ 1116  g++ test.cpp
+ 1117  ./a.out
+ 1118  g++ insort.cpp
+ 1119  ./a.out
+ 1120  g++ insertion_sort.cpp
+ 1121  ./a.out
+ 1122  g++ new.cpp
+ 1123  ./a.out
+ 1124  g++ new.cpp
+ 1125  ./a.out
+ 1126  g++ new.cpp
+ 1127  ./a.out
+ 1128  g++ new.cpp
+ 1129  ./a.out
+ 1130  g++ new.cpp
+ 1131  ./a.out
+ 1132  g++ new.cpp
+ 1133  ./a.out
+ 1134  g++ new.cpp
+ 1135  ./a.out
+ 1136  g++ new.cpp
+ 1137  ./a.out
+ 1138  g++ new.cpp
+ 1139  ./a.out
+ 1140  g++ new.cpp
+ 1141  ./a.out
+ 1142  g++ new1.cpp
+ 1143  g++ new.cpp
+ 1144  g++ new1.cpp
+ 1145  g++ insort.cpp
+ 1146  ./a.out
+ 1147  g++ insort.cpp
+ 1148  ./a.out
+ 1149  g++ new.cpp
+ 1150  ./a.out
+ 1151  g++ new.cpp
+ 1152  ./a.out
+ 1153  g++ new.cpp
+ 1154  ./a.out
+ 1155  g++ insertion_sort.cpp
+ 1156  ./a.out
+ 1157  g++ insertion_sort.cpp
+ 1158  ./a.out
+ 1159  g++ insertion_sort.cpp
+ 1160  ./a.out
+ 1161  g++ insertion_sort.cpp
+ 1162  ./a.out
+ 1163  g++ insertion_sort.cpp
+ 1164  ./a.out
+ 1165  g++ insertion_sort.cpp
+ 1166  ./a.out
+ 1167  g++ insertion_sort.cpp
+ 1168  ./a.out
+ 1169  g++ insertion_sort.cpp
+ 1170  ./a.out
+ 1171  g++ insertion_sort.cpp
+ 1172  ./a.out
+ 1173  g++ selsort.cpp
+ 1174  ./a.out
+ 1175  g++ selsort.cpp
+ 1176  ./a.out
+ 1177  g++ selsort.cpp
+ 1178  ./a.out
+ 1179  g++ selsort.cpp
+ 1180  ./a.out
+ 1181  g++ selsort.cpp
+ 1182  ./a.out
+ 1183  g++ selsort.cpp
+ 1184  ./a.out
+ 1185  g++ selsort.cpp
+ 1186  ./a.out
+ 1187  g++ selsort.cpp
+ 1188  ./a.out
+ 1189  g++ selsort.cpp
+ 1190  ./a.out
+ 1191  g++ strselsort.cpp
+ 1192  ./a.out
+ 1193  cd Desktop/chris
+ 1194  g++ strselsort.cpp
+ 1195  ./a.out
+ 1196  cd Downloads
+ 1197  g++ selsort.cpp
+ 1198  ./a.out
+ 1199  ssh christine_bcs11@athena.nitc.ac.in
+ 1200  cd Desktop/chris
+ 1201  g++ strselsort.cpp
+ 1202  ./a.out
+ 1203  g++ qsort.cpp
+ 1204  ./a.out
+ 1205  g++ qsort.cpp
+ 1206  ./a.out
+ 1207  g++ qsort.cpp
+ 1208  ./a.out
+ 1209  cd Desktop/chris
+ 1210  g++ quick_sort.cpp
+ 1211  ./a.out
+ 1212  g++ quick_sort.cpp
+ 1213  ./a.out
+ 1214  g++ quick_sort.cpp
+ 1215  ./a.out
+ 1216  g++ quick_sort.cpp
+ 1217  ./a.out
+ 1218  erl
+ 1219  ssh root@192.168.41.203
+ 1220  cd compiler_lab/
+ 1221  yacc -d 3.1.2.y
+ 1222  flex 3.l
+ 1223  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1224  ./a.out<trial.txt
+ 1225  clear
+ 1226  yacc -d 3.1.2.y
+ 1227  flex 3.l
+ 1228  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1229  ./a.out<trial.txt
+ 1230  yacc -d 3.1.2.y
+ 1231  flex 3.l
+ 1232  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1233  yacc -d 3.1.2.y
+ 1234  flex 3.l
+ 1235  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1236  ./a.out<trial.txt
+ 1237  yacc -d 3.1.2.y
+ 1238  flex 3.l
+ 1239  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1240  ./a.out<trial.txt
+ 1241  yacc -d 3.1.2.y
+ 1242  flex 3.l
+ 1243  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1244  ./a.out<trial.txt
+ 1245  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1246  ./a.out<trial.txt
+ 1247  yacc -d 3.1.2.y
+ 1248  flex 3.l
+ 1249  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1250  ./a.out<trial.txt
+ 1251  clear
+ 1252  yacc -d 3.1.2.y
+ 1253  flex 3.l
+ 1254  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1255  ./a.out<trial.txt
+ 1256  gcc lex.yy.c y.tab.c inc2.c -llCLEAR
+ 1257  clear
+ 1258  yacc -d 3.1.y
+ 1259  flex 3.l
+ 1260  gcc lex.yy.c y.tab.c inc.c -ll
+ 1261  clear
+ 1262  yacc -d 3.1.y
+ 1263  flex 3.l
+ 1264  gcc lex.yy.c y.tab.c inc.c -ll
+ 1265  clear
+ 1266  gcc lex.yy.c y.tab.c inc.c -ll
+ 1267  ./a.out < trial.txt
+ 1268  yacc -d 3.1.y
+ 1269  flex 3.l
+ 1270  gcc lex.yy.c y.tab.c inc.c -ll
+ 1271  ./a.out < trial.txt
+ 1272  yacc -d 3.1.y
+ 1273  clear
+ 1274  clear'
+ 1275  clear
+ 1276  cd compiler_lab/
+ 1277  yacc -d 3.1.y
+ 1278  flex 3.l
+ 1279  gcc lex.yy.c y.tab.c inc.c -ll
+ 1280  ./a.out < trial.txt
+ 1281  yacc -d 3.1.y
+ 1282  flex 3.l
+ 1283  gcc lex.yy.c y.tab.c inc.c -ll
+ 1284  ./a.out < trial.txt
+ 1285  yacc -d 3.1.y
+ 1286  flex 3.l
+ 1287  gcc lex.yy.c y.tab.c inc.c -ll
+ 1288  ./a.out < trial.txt
+ 1289  clear
+ 1290  yacc -d silgram.y
+ 1291  flex eval1.l
+ 1292  gcc lex.yy.c y.tab.c -ll
+ 1293  ./a.out<a.sil
+ 1294  yacc -d silgram.y
+ 1295  flex eval1.l
+ 1296  gcc lex.yy.c y.tab.c -ll
+ 1297  ./a.out<a.sil
+ 1298  yacc -d silgram.y
+ 1299  flex eval1.l
+ 1300  gcc lex.yy.c y.tab.c -ll
+ 1301  ./a.out<a.sil
+ 1302  yacc -d silgram.y
+ 1303  flex eval1.l
+ 1304  gcc lex.yy.c y.tab.c -ll
+ 1305  ./a.out<a.sil
+ 1306  yacc -d silgram.y
+ 1307  flex eval1.l
+ 1308  gcc lex.yy.c y.tab.c -ll
+ 1309  ./a.out<a.sil
+ 1310  yacc -d 3.1.2.y
+ 1311  clear
+ 1312  cd compiler_lab/
+ 1313  yacc -d 3.1.2.y
+ 1314  flex 3.l
+ 1315  cd compiler_lab/
+ 1316  yacc -d 3.1.2.y
+ 1317  flex 3.l
+ 1318  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1319  ./a.out <trial.txt
+ 1320  clear
+ 1321  yacc -d 3.1.2.y
+ 1322  flex 3.l
+ 1323  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1324  ./a.out <trial.txt
+ 1325  yacc -d 3.1.2.y
+ 1326  flex 3.l
+ 1327  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1328  ./a.out <trial.txt
+ 1329  gcc lex.yy.c y.tab.c inc2.c -ll
+ 1330  clear
+ 1331  ssh rajendra_bcs11 athena@nitc.ac.in
+ 1332  ssh rajendra_bcs11@athena.nitc.ac.in
+ 1333  cd amitcom
+ 1334  yacc -d -y grammer.y
+ 1335  yacc -d -v grammer.y
+ 1336  yacc -d -v aa.y
+ 1337  lex grammer.l
+ 1338  gcc y.tab.h lex.yy.c -ll
+ 1339  yacc -d -v aa.y
+ 1340  lex grammer.l
+ 1341  gcc y.tab.h lex.yy.c -ll
+ 1342  ./a.out <a.text
+ 1343  yacc -d -v grammer.y
+ 1344  cd amitcom
+ 1345  yacc -d -v grammer.y
+ 1346  lex grammer.l
+ 1347  gcc y.tab.h lex.yy.c -ll
+ 1348  cd n
+ 1349  yacc -d -v amitsharma'.y
+ 1350  yacc -d -v amitsharma.y
+ 1351  lex amitsharma.l
+ 1352  gcc y.tab.h lex.yy.c -ll
+ 1353  lex amitsharma.l
+ 1354  gcc y.tab.h lex.yy.c -ll
+ 1355  cd Downloads
+ 1356  yacc -d -v grammer.y
+ 1357  lex grammer.l
+ 1358  gcc y.tab.h lex.yy.c -ll
+ 1359  cd Downloads
+ 1360  yacc -d -v grammer.y
+ 1361  lex grammer.l
+ 1362  gcc y.tab.h lex.yy.c -ll
+ 1363  gcc y.tab.h  -ll -lf
+ 1364  yacc -d grammer.y
+ 1365  lex grammer.l
+ 1366  gcc y.tab.h  -ll -lf
+ 1367  gcc y.tab.h lex.yy.c -ll
+ 1368  yacc -d grammer.y
+ 1369  lex grammer.l
+ 1370  gcc y.tab.c lex.yy.c -ll
+ 1371  cd amitcom
+ 1372  yacc -d grammer.y
+ 1373  cd Downloads/
+ 1374  ./a.out <a.text
+ 1375  yacc -d grammer.y
+ 1376  lex grammer.l
+ 1377  gcc y.tab.c lex.yy.c -ll
+ 1378  ./a.out <a.text
+ 1379  yacc -d grammer.y
+ 1380  lex grammer.l
+ 1381  gcc y.tab.c lex.yy.c -ll
+ 1382  ./a.out <a.text
+ 1383  yacc -d grammer.y
+ 1384  lex grammer.l
+ 1385  gcc y.tab.c lex.yy.c -ll
+ 1386  ./a.out <a.text
+ 1387  yacc -d grammer.y
+ 1388  gcc y.tab.c lex.yy.c -ll
+ 1389  lex grammer.l
+ 1390  gcc y.tab.c lex.yy.c -ll
+ 1391  ./a.out <a.text
+ 1392  yacc -d grammer.y
+ 1393  lex grammer.l
+ 1394  gcc y.tab.c lex.yy.c -ll
+ 1395  yacc -d grammer.y
+ 1396  lex grammer.l
+ 1397  gcc y.tab.c lex.yy.c -ll
+ 1398  ./a.out <a.text
+ 1399  yacc -d grammer.y
+ 1400  lex grammer.l
+ 1401  gcc y.tab.c lex.yy.c -ll
+ 1402  ./a.out <a.text
+ 1403  yacc -d grammer.y
+ 1404  lex grammer.l
+ 1405  gcc y.tab.c lex.yy.c -ll
+ 1406  ./a.out <a.text
+ 1407  yacc -d grammer.y
+ 1408  lex grammer.l
+ 1409  gcc y.tab.c lex.yy.c -ll
+ 1410  ./a.out <a.text
+ 1411  yacc -d grammer.y
+ 1412  lex grammer.l
+ 1413  gcc y.tab.c lex.yy.c -ll
+ 1414  ./a.out <a.text
+ 1415  yacc -d grammer.y
+ 1416  gcc y.tab.c lex.yy.c -ll
+ 1417  lex grammer.l
+ 1418  gcc y.tab.c lex.yy.c -ll
+ 1419  ./a.out <a.text
+ 1420  yacc -d grammer.y
+ 1421  lex grammer.l
+ 1422  gcc y.tab.c lex.yy.c -ll
+ 1423  ./a.out <a.text
+ 1424  yacc -d grammer.y
+ 1425  lex grammer.l
+ 1426  gcc y.tab.c lex.yy.c -ll
+ 1427  ./a.out <a.text
+ 1428  yacc -d grammer.y
+ 1429  lex grammer.l
+ 1430  gcc y.tab.c lex.yy.c -ll
+ 1431  ./a.out <a.text
+ 1432  yacc -d grammer.y\
+ 1433  yacc -d grammer.y
+ 1434  lex grammer.l
+ 1435  gcc y.tab.c lex.yy.c -ll
+ 1436  ./a.out <a.text
+ 1437  /
+ 1438  yacc -d grammer.y
+ 1439  lex grammer.l
+ 1440  gcc y.tab.c lex.yy.c -ll
+ 1441  ./a.out <a.text
+ 1442  /
+ 1443  yacc -d grammer.y
+ 1444  lex grammer.l
+ 1445  gcc y.tab.c lex.yy.c -ll
+ 1446  ./a.out <a.text
+ 1447  yacc -d grammer.y
+ 1448  lex grammer.l
+ 1449  gcc y.tab.c lex.yy.c -ll
+ 1450  ./a.out <a.text
+ 1451  yacc -d grammer.y\
+ 1452  yacc -d grammer.y
+ 1453  lex grammer.l
+ 1454  gcc y.tab.c lex.yy.c -ll
+ 1455  ./a.out <a.text
+ 1456  yacc -d grammer.y
+ 1457  lex grammer.l
+ 1458  gcc y.tab.c lex.yy.c -ll
+ 1459  ./a.out <a.text
+ 1460  yacc -d grammer.y
+ 1461  lex grammer.l
+ 1462  gcc y.tab.c lex.yy.c -ll
+ 1463  ./a.out <a.text
+ 1464  yacc -d grammer.y
+ 1465  lex grammer.l
+ 1466  gcc y.tab.c lex.yy.c -ll
+ 1467  ./a.out <a.text
+ 1468  yacc -d grammer.y
+ 1469  lex grammer.l
+ 1470  gcc y.tab.c lex.yy.c -ll
+ 1471  ./a.out <a.text
+ 1472  yacc -d grammer.y
+ 1473  lex grammer.l
+ 1474  gcc y.tab.c lex.yy.c -ll
+ 1475  ./a.out <a.text
+ 1476  yacc -d grammer.y
+ 1477  lex grammer.l
+ 1478  gcc y.tab.c lex.yy.c -ll
+ 1479  ./a.out <a.text
+ 1480  yacc -d grammer.y
+ 1481  lex grammer.l
+ 1482  gcc y.tab.c lex.yy.c -ll
+ 1483  ./a.out <a.text
+ 1484  cd Desktop/chris
+ 1485  gcc quick.c
+ 1486  ./a.out
+ 1487  gcc quick.c
+ 1488  ./a.out
+ 1489  gcc quick.c
+ 1490  ./a.out
+ 1491  g++ quick_sort.cpp
+ 1492  ./a.out
+ 1493  gcc quick.c
+ 1494  ./a.out
+ 1495  gcc quick.c
+ 1496  ./a.out
+ 1497  gcc quick.c
+ 1498  ./a.out
+ 1499  gcc quick.c
+ 1500  ./a.out
+ 1501  g++ quick_sort.cpp
+ 1502  ./a.out
+ 1503  g++ test.cpp
+ 1504  ./a.out
+ 1505  gcc quick.c
+ 1506  ./a.out
+ 1507  gcc quick.c
+ 1508  ./a.out
+ 1509  g++ quick_sort.cpp
+ 1510  gcc test.cpp
+ 1511  g++ test.cpp
+ 1512  gcc quick.c
+ 1513  g++ test.cpp
+ 1514  gcc quick.c
+ 1515  ./a.out
+ 1516  gcc quick.c
+ 1517  ./a.out
+ 1518  gcc quickt.c
+ 1519  ./a.out
+ 1520  gcc quickt.c
+ 1521  ./a.out
+ 1522  gcc quickt.c
+ 1523  g++ q.cpp
+ 1524  ./a.out
+ 1525  g++ q.cpp
+ 1526  ./a.out
+ 1527  g++ q.cpp
+ 1528  ./a.out
+ 1529  g++ q.cpp
+ 1530  ./a.out
+ 1531  g++ q.cpp
+ 1532  ./a.out
+ 1533  g++ quick_sort.cpp
+ 1534  ./a.out
+ 1535  g++ quick_sort.cpp
+ 1536  ./a.out
+ 1537  gcc radix.c
+ 1538  ./a.out
+ 1539  gcc radix.c
+ 1540  ./a.out
+ 1541  gcc radix.c
+ 1542  gcc 1.c
+ 1543  ssh zeus@athena@nitc.ac.in
+ 1544  ssh zeus@athena.nitc.ac.in
+ 1545  ssh k4rtik@athena.nitc.ac.in
+ 1546  ssh nitish_bcs11@athena.nitc.ac.in
+ 1547  ssh chaudhary_bcs11@athena.nitc.ac.in
+ 1548  ssh nitish_bcs11@athena.nitc.ac.in
+ 1549  ps -faux
+ 1550  exit
+ 1551  xwd -out screenshot.xwd -root -display :0.0
+ 1552  ls
+ 1553  scp screenshot.xwd araj_bcs11@192.168.40.99:
+ 1554  rm screenshot.xwd 
+ 1555  ls
+ 1556  xwd -out screenshot.xwd -root -display :0.0 && scp screenshot.xwd araj_bcs11@192.168.40.99: public_html && rm screenshot.xwd
+ 1557  xwd -out screenshot.xwd -root -display :0.0 && scp screenshot.xwd araj_bcs11@192.168.40.99:public_html && rm screenshot.xwd
+ 1558  logout
+ 1559  users
+ 1560  ls
+ 1561  ps -faux
+ 1562  xwd -out screenshot.xwd -root -display :0.0 && scp screenshot.xwd vishnuraj_bcs11@192.168.40.99: && rm screenshot.xwd
+ 1563  exit
+ 1564  cd compiler_lab/
+ 1565  yacc -d silg1.y
+ 1566  flex silg1.l
+ 1567  gcc lex.yy.c y.tab.c inc2.h -ll
+ 1568  ./a.out<trial.txt
+ 1569  ./a.out<a.sil
+ 1570  clear
+ 1571  yacc -d silg11.y
+ 1572  flex silg1.l
+ 1573  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1574  ./a.out<a.sil
+ 1575  clear
+ 1576  yacc -d silg11.y
+ 1577  clear
+ 1578  flex silg1.l
+ 1579  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1580  clear
+ 1581  yacc -d silg11.y
+ 1582  flex silg1.l
+ 1583  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1584  yacc -d silg11.y
+ 1585  flex silg1.l
+ 1586  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1587  yacc -d silg11.y
+ 1588  flex silg1.l
+ 1589  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1590  clear
+ 1591  yacc -d silg11.y
+ 1592  flex silg1.l
+ 1593  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1594  clear
+ 1595  yacc -d silg11.y
+ 1596  flex silg1.l
+ 1597  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1598  clear
+ 1599  yacc -d silg11.y
+ 1600  flex silg1.l
+ 1601  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1602  clear
+ 1603  yacc -d silg11.y
+ 1604  flex silg1.l
+ 1605  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1606  clear
+ 1607  yacc -d silg11.y
+ 1608  flex silg1.l
+ 1609  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1610  clear
+ 1611  yacc -d silg11.y
+ 1612  flex silg1.l
+ 1613  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1614  clear
+ 1615  yacc -d silg11.y
+ 1616  flex silg1.l
+ 1617  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1618  ./a.out<a.sil
+ 1619  clear
+ 1620  yacc -d silg11.y
+ 1621  flex silg1.l
+ 1622  gcc lex.yy.c y.tab.c inc3.h -ll
+ 1623  ./a.out<a.sil
+ 1624  cd Desktop
+ 1625  gcc ashika.c -o ob
+ 1626  cd Downloads
+ 1627  cd ds lab 2.zip
+ 1628  cd dsa_assngmnt_2qns
+ 1629  gcc ins_bin.c
+ 1630  ./a.out
+ 1631  gcc ins_bin.c
+ 1632  ./a.out
+ 1633  gcc ins_bin.c
+ 1634  ./a.out
+ 1635  gcc quick_sort.c
+ 1636  ./a.out
+ 1637  gcc quick_sort.c
+ 1638  ./a.out
+ 1639  gcc radix.c
+ 1640  ./a.out
+ 1641  gcc radix.c
+ 1642  ./a.out
+ 1643  gcc radix.c
+ 1644  cd dsa_assngmnt_2qns
+ 1645  gcc radix.c
+ 1646  ./a.out
+ 1647  gcc radix.c
+ 1648  ./a.out
+ 1649  cd dsa_assngmnt_2qns
+ 1650  gcc radix.c
+ 1651  ./a.out
+ 1652  clear
+ 1653  ls
+ 1654  cd Downloads/
+ 1655  clear
+ 1656  ls
+ 1657  clear
+ 1658  cd ..
+ 1659  ls
+ 1660  cd dsa_assngmnt_2qns/
+ 1661  clear
+ 1662  ls
+ 1663  nano median_array.c 
+ 1664  clear
+ 1665  scp median_array.c -o guest@192.168.40.31
+ 1666  scp median_array.c -o guest@192.168.40.31:
+ 1667  cd dsa_assngmnt_2qns/
+ 1668  gcc radix.c
+ 1669  ./a.out
+ 1670  gcc radix.c
+ 1671  ./a.out
+ 1672  gcc radix.c
+ 1673  ./a.out
+ 1674  gcc radix.c
+ 1675  ./a.out
+ 1676  gcc radix.c
+ 1677  ./a.out
+ 1678  gcc radix.c
+ 1679  ./a.out
+ 1680  gcc radix.c
+ 1681  ./a.out
+ 1682  gcc radix.c
+ 1683  ./a.out
+ 1684  gcc median_array.c
+ 1685  gcc median_array.c -lm
+ 1686  ./a.out
+ 1687  gcc median_array.c -lm
+ 1688  ./a.out
+ 1689  gcc median_array.c -lm
+ 1690  ./a.out
+ 1691  gcc median_array.c -lm
+ 1692  ./a.out
+ 1693  gcc median_array.c -lm
+ 1694  ./a.out
+ 1695  gcc radix.c
+ 1696  gcc ins_bin.c
+ 1697  ./a.out
+ 1698  gcc ins_bin.c
+ 1699  ./a.out
+ 1700  gcc ins_bin.c
+ 1701  ./a.out
+ 1702  gcc ins_bin.c
+ 1703  ./a.out
+ 1704  gcc ins_bin.c
+ 1705  ./a.out
+ 1706  gcc quick_sortc
+ 1707  gcc quick_sort.c
+ 1708  ./a.out
+ 1709  gcc quick_sort.c
+ 1710  ./a.out
+ 1711  gcc quick_sort.c
+ 1712  ./a.out
+ 1713  gcc quick_sort.c
+ 1714  ./a.out
+ 1715  gcc quick_sort.c
+ 1716  ./a.out
+ 1717  gcc median_array.c
+ 1718  ./a.out
+ 1719  gcc median_array.c
+ 1720  ./a.out
+ 1721  gcc median_array.c
+ 1722  ./a.out
+ 1723  gcc median_array.c
+ 1724  ./a.out
+ 1725  gcc median_array.c
+ 1726  ./a.out
+ 1727  gcc median_array.c
+ 1728  ./a.out
+ 1729  gcc median_array.c
+ 1730  ./a.out
+ 1731  gcc median_array.c
+ 1732  ./a.out
+ 1733  gcc median_array.c
+ 1734  ./a.out
+ 1735  gcc median_array.c
+ 1736  ./a.out
+ 1737  gcc radix.c
+ 1738  ./a.out
+ 1739  gcc radix.c
+ 1740  ./a.out
+ 1741  gcc radix.c
+ 1742  ./a.out
+ 1743  gcc quick_sort.c
+ 1744  ./a.out
+ 1745  gcc quick_sort.c
+ 1746  ./a.out
+ 1747  ssh pamidi_bcs11@athena.nitc.ac.in
+ 1748  wget http://pramode.net/downloades/scala-workshop.tgz
+ 1749  wget http://pramode.net/downloads/scala-workshop.tgz
+ 1750  tar xvf scala-workshop.tgz
+ 1751  ls
+ 1752  cd nitc-2013
+ 1753  ls
+ 1754  cd code
+ 1755  ls
+ 1756  cat hello.scala
+ 1757  scala hello.scala\
+ 1758  scala hello.scala
+ 1759  scala
+ 1760  cat a1.scala
+ 1761  scala a1.scala
+ 1762  scala
+ 1763  scala a4.scala
+ 1764  cat a5.scala
+ 1765  scala a5.scala
+ 1766  gedit a5.scala
+ 1767  scala a5.scala
+ 1768  cat sum.txt
+ 1769  sh
+ 1770  echo $PA1
+ 1771  echo $Ps1
+ 1772  echo $PS1
+ 1773  PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$
+ 1774  -u
+ 1775  -u acs
+ 1776  sudo -u acs
+ 1777  sudo -u acs xsa
+ 1778  ls
+ 1779  \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$
+ 1780  PS1=\[\e]0;abc@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$
+ 1781  PS1='\[\e]0;hello@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$'
+ 1782  export $PS1='\[\e]0;hello@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$'
+ 1783  export PS1='\[\e]0;hello@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$'
+ 1784  sh
+ 1785  ls
+ 1786  sh
+ 1787  export PS1="\[\e]0;hello@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$"
+ 1788  sh
+ 1789  vim .bashrc
+ 1790  cd scala-2013
+ 1791  ls
+ 1792  cd scala-workshop
+ 1793  cd scala-workshop.tgz
+ 1794  cd nitc-2013
+ 1795  ls
+ 1796  cd code
+ 1797  cat a7.scala
+ 1798  cat a8.scala
+ 1799  scala a8.scala
+ 1800  cat a9.scala
+ 1801  scala a9.scala
+ 1802  scala
+ 1803  cd nitc-2013
+ 1804  cd code
+ 1805  scala
+ 1806  gedit scala
+ 1807  scala
+ 1808  git config --global user.name "ashwin"
+ 1809  git config --global user.email "ashwinj4u@gmail.com"
+ 1810  cat ~/.gitconfig
+ 1811  git config --global user.name 
+ 1812  git config --global user.email 
+ 1813  mkdir test
+ 1814  cd test
+ 1815  git init
+ 1816  ls -als
+ 1817  gedit readme
+ 1818  git readme
+ 1819  git add readme
+ 1820* 
+ 1821  git status
+ 1822  git commit
+ 1823  git log
+ 1824  gedit test.txt
+ 1825  ls
+ 1826  gedit readme
+ 1827  git diff
+ 1828  git status
+ 1829  git add readme
+ 1830  git commit
+ 1831  git log
+ 1832  pwd
+ 1833  cd ..
+ 1834  pwd
+ 1835  ls
+ 1836  ls | grep .txt
+ 1837  gedit ashwin.txt 
+ 1838  cd test/
+ 1839  clear
+ 1840  git log
+ 1841  history
+ 1842  man history
+ 1843  git log
+ 1844  gedit readme
+ 1845  git add readme
+ 1846  git commit
+ 1847  git diff
+ 1848  git status
+ 1849  git add readme
+ 1850  git commit
+ 1851  git log
+ 1852  git diff
+ 1853  gedit readme
+ 1854  git add readme
+ 1855  git diff
+ 1856  git commit
+ 1857  git log
+ 1858  git log --oneline
+ 1859  git ststus
+ 1860  git status
+ 1861  git log --decorate
+ 1862  diff first commit second commit
+ 1863  git rm readme
+ 1864  git commit
+ 1865  git log
+ 1866  git diff
+ 1867  man history
+ 1868  man history | grep time
+ 1869  man history | grep number
+ 1870  history
+ 1871  history 1808
+ 1872  ls
+ 1873  history >git.txt
